@@ -10,35 +10,35 @@ export default function Brands(){
                     <div className="logo1  h-[11.8vh] w-[20vw]">
                         <img 
                         className="w-full h-full"
-                        src="./images/Cotopaxi-Black.png"
+                        src="Images/Cotopaxi-Black.png"
                         />
                     </div>
 
                     <div className="logo2 h-[14.9vh] w-[15.3vw]">
                         <img 
                         className="w-full h-full"
-                        src="./images/disney.png"
+                        src="Images/disney.png"
                         />
                     </div>
 
                     <div className="logo3 h-[20vh] w-[19vw]">
                         <img 
                         className="w-full h-full"
-                        src="./images/Harman-Black.png"
+                        src="Images/Harman-Black.png"
                         />
                     </div>
 
                     <div className="logo4 w-[17.2vw] h-[10.1vh]">
                         <img 
                         className="w-full h-full"
-                        src="./images/Scouted-Logo-Black.png"
+                        src="Images/Scouted-Logo-Black.png"
                         />
                     </div>
 
                     <div className="logo5 w-[19.5vw] h-[8.3vh]">
                         <img 
                         className="w-full h-full"
-                        src="./images/Spikeball_Horizontal_Logo_Black.png"
+                        src="Images/Spikeball_Horizontal_Logo_Black.png"
                         />
                     </div>
 

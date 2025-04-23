@@ -7,19 +7,19 @@ export default function Boxes(){
                     <div className="h-[10vh] w-[4.5vw] flex justify-end items-center">
                         <img 
                         className="h-[6vh]"
-                        src="./images/icon.svg"
+                        src=".Images/icon.svg"
                         />
                     </div>
                     <div className="h-[10vh] w-[4.5vw] flex justify-end items-center">
                         <img 
                         className="h-[6vh]"
-                        src="./images/icon (1).svg"
+                        src=".Images/icon (1).svg"
                         />
                     </div>
                     <div className="h-[10vh] w-[4.5vw] flex justify-end items-center">
                         <img 
                         className="h-[6vh]"
-                        src="./images/icon (2).svg"
+                        src=".Images/icon (2).svg"
                         />
                     </div>
                     
@@ -46,19 +46,19 @@ export default function Boxes(){
                     <div className="h-[10vh] w-[4.5vw] flex justify-center items-center">
                         <img 
                         className="h-[6vh]"
-                        src="./images/icon (3).svg"
+                        src=".Images/icon (3).svg"
                         />
                     </div>
                     <div className="h-[10vh] w-[4.5vw] flex justify-end items-center">
                         <img 
                         className="h-[6vh]"
-                        src="./images/Icon (4).svg"
+                        src=".Images/Icon (4).svg"
                         />
                     </div>
                     <div className="h-[10vh] w-[4.5vw] flex justify-end items-center">
                         <img 
                         className="h-[6vh]"
-                        src="./images/icon (5).svg"
+                        src=".Images/icon (5).svg"
                         />
                     </div>
                     

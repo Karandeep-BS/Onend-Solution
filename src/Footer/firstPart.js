@@ -6,7 +6,7 @@ export default function First() {
                     <div className="">
                         <img 
                         className=""
-                        src="./images/logo.png"
+                        src="Images/logo.png"
                         />
                     </div>
 
@@ -14,19 +14,19 @@ export default function First() {
                         <div className="">
                             <img 
                             className="w-[2vw] h-[4vh]"
-                            src="./images/Twitter.png"
+                            src="Images/Twitter.png"
                             />
                         </div>
                         <div className="">
                             <img 
                             className="w-[2vw] h-[4vh]"
-                            src="./images/Fb.png"
+                            src="Images/Fb.png"
                             />
                         </div>
                         <div className="">
                             <img 
                             className="w-[2vw] h-[4vh]"
-                            src="./images/insta.png"
+                            src="Images/insta.png"
                             />
                         </div>
                     </div>

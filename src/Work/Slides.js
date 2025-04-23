@@ -30,7 +30,7 @@ export default function Slides() {
                     </div>
                     <img 
                         className="w-full h-full object-cover  opacity-40 absolute top-0 left-0"
-                        src="./images/Slides-1.jpg"
+                        src=".Images/Slides-1.jpg"
                         alt="Slide 1"
                     />
                 </div>
@@ -55,7 +55,7 @@ export default function Slides() {
                     </div>
                     <img 
                         className="w-full h-full object-cover opacity-40 absolute top-0 left-0"
-                        src="./images/Slides-2.jpg"
+                        src=".Images/Slides-2.jpg"
                         alt="Slide 2"
                     />
                 </div>
@@ -80,7 +80,7 @@ export default function Slides() {
                     </div>
                     <img 
                         className="w-[140%] h-full object-cover opacity-40 absolute top-0 left-[-4%]"
-                        src="./images/Slides-3.png"
+                        src=".Images/Slides-3.png"
                         alt="Slide 3"
                     />
                 </div>

@@ -5,13 +5,13 @@ export default function Video(){
                 <div className="h-[45vh] w-[50vw] overflow-hidden opacity-30 ">
                     <img
                     className="w-[50vw] h-[75vh]"
-                    src="/images/work-1.jpg"
+                    src="Images/work-1.jpg"
                     />
                 </div>
                 <div className="h-[45vh] w-[50vw] overflow-hidden opacity-30 ">
                     <img
                     className="w-[50vw] h-[75vh]"
-                    src="/images/work-2.jpg"
+                    src="Images/work-2.jpg"
                     />
                 </div>
             </div>
@@ -19,13 +19,13 @@ export default function Video(){
                 <div className="h-[45vh] w-[50vw]  overflow-hidden opacity-30">
                     <img
                     className="w-[50vw] h-[75vh]"
-                    src="/images/work-3.jpg"
+                    src="Images/work-3.jpg"
                     />
                 </div>
                 <div className="h-[45vh] w-[50vw]  overflow-hidden opacity-30">
                     <img
                     className="w-[50vw] h-[75vh]"
-                    src="/images/work-4.png"
+                    src="Images/work-4.png"
                     />
                 </div>
             </div>

@@ -4,7 +4,7 @@ export default function HeroImage(){
             <div className="h-[60vh] w-[60vw] bottom-[18vh] left-[-25vw] absolute opacity-30">
                 <img 
                 className=" w-full  "
-                src="/images/hero-image.png"
+                src="Images/hero-image.png"
                 />
             </div>
         </div>
