@@ -52,7 +52,7 @@ export default function Boxes(){
                     <div className="h-[10vh] w-[4.5vw] flex justify-end items-center">
                         <img 
                         className="h-[6vh]"
-                        src="./images/icon (4).svg"
+                        src="./images/Icon (4).svg"
                         />
                     </div>
                     <div className="h-[10vh] w-[4.5vw] flex justify-end items-center">
