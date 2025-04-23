@@ -1,0 +1,17 @@
+@media (max-height: 633px) {
+    .OTD {
+      font-size: 6vh;
+    }
+  }
+
+@media (max-height: 546px) {
+    .GET {
+      font-size: 2.4vh;
+    }
+  }
+
+  @media (max-height: 728px) {
+    .GET {
+      font-size: 2.5vh;
+    }
+  }

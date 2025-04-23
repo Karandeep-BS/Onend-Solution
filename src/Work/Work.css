@@ -1,0 +1,15 @@
+@media (max-height: 633px) {
+    .OLS {
+      font-size: 13vh;
+      line-height: 15vh;
+      margin-left: 10vh;
+    }
+    .OurCase{
+        font-size: 2.5vh;
+        margin-left: 10vh;
+    }
+    .SlideClass{
+        width: 30vw;
+        height: 90vh;
+    }
+  }

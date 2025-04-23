@@ -1,0 +1,64 @@
+@media (max-height: 633px) {
+  .AHeroText {
+    font-size: 12.5vh;
+  }
+  .TextHero {
+    height: 66vh;
+    margin-left: 0px;
+  }
+  .ShapeSvg{
+    width: auto;
+    height: auto;
+  }
+  .HeroContent{
+    width: 90%;
+  }
+  .HeroHight {
+    height: 135vh;
+  }
+  .Hero {
+    height: 165.74vh;
+  }
+  .HeroButton {
+    height: 11vh;
+    width: 20vw;
+  }
+  .HeroArrow svg {
+    width: 3vw;
+    height: 3vh;
+  }
+  .row-1-box, .row-2-box, .row-3-box {
+    height: 20.54vh;
+  }
+  .HeroBottomCircle {
+    height: 41.07vh;
+  }
+  .HeroBottomFill {
+    height: 20.54vh;
+  }
+  .HeroBottomInnerCircle {
+    height: 23.79vh;
+    width: 11.02vw;
+  }
+  .HeroTopArc {
+    width: 6.15vw;
+    height: 12.2vh;
+  position: absolute;
+  top: -0.16vh;
+  left: -0.3vw;
+  border-top: 4px solid white;
+  border-left: 4px solid white;
+  border-top-left-radius: 100%;
+  transform: rotate(-2.9deg);
+  }
+  .BlackWhiteCircle{
+    height: 100%;
+    width: 100%;
+  }
+  .BottomLineLeft{
+    height: 100%;
+  }
+  .BottomLineRight{
+    height: 100%;
+  }
+}

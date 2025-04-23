@@ -1,0 +1,14 @@
+@media (max-height: 633px) {
+    .GET-START {
+      height: 11vh;
+      width: 20vw;
+    }
+    .GET_START_T{
+        font-size: 2.7vh;
+    }
+
+    .Parrow{
+        height: 24;
+        width: 24;
+    }
+  }

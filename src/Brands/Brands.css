@@ -1,0 +1,20 @@
+@media (max-height: 633px) {
+    .logo1{
+        height: 11.8vh;
+        width: 16vw;
+    }
+    .logo2 {
+        height: 14.9vh;
+        width: 15.3vw;
+      }
+
+    .logo4{
+        width: 17.2vw;
+        height: 10.1vh;
+      }
+    
+      .logo5 {
+        width: 19.5vw;
+        height: 8.3vh;
+      }      
+  }
