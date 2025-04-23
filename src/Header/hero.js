@@ -8,7 +8,7 @@ export default function Hero() {
             <div className=" HeroContent w-full mt-[5%] relative flex">
                 <div className="TextHero w-[60%] ml-[20vh] h-[66vh] relative flex flex-col">
                     <div className="svg w-[50%]   absolute bottom-[10%] left-[55%]">
-                        <img className="ShapeSvg w-[30vw] h-[30vh]" src="/images/Shape.svg" />
+                        <img className="ShapeSvg w-[30vw] h-[30vh]" src="Images/Shape.svg" />
                     </div>
 
                     <div className="w-full AHeroText text-[11vh] text-nowrap flex flex-col justify-start text-left leading-[100%] tracking-[-0.5vh] font-[500] font-worksans">
