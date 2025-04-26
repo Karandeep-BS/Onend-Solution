@@ -1,0 +1,85 @@
+@media (max-aspect-ratio: 3/2) {
+    .Default{
+        display: none;
+    }
+    .MobileTextWork{
+        display: flex;
+        font-size: 5.3vh;
+        font-weight: 500;
+    }
+    .WorkMain{
+        flex-direction: column;
+        height: 70vh;
+    }
+    .WorkTextMain{
+        height: 25vh;
+        width: 100%;
+        flex-direction: row;
+        
+    }
+    .WorkText{
+        width: auto;
+        height: auto;
+    }
+    .OLS{
+        font-size: 3vh;
+        width: auto;
+        height: auto;
+        line-height: 3vh;
+    }
+    
+    .OurCase{
+        line-height: 10vh;
+    }
+    .SlidesMain{
+        width: 100%;
+        height: 100%;
+        /* background-color: yellow; */
+        justify-content: right;
+        align-items: start;
+    }
+    .SlidesContainer{
+        left: 40vw;
+        width: 130%;
+        height: 40vh;
+        /* background-color: blue; */
+        
+    }
+    .SlideClass{
+        width: 100vw;
+        height: 40vh;
+        /* background-color: aqua; */
+        overflow: hidden;
+    }
+
+    .BigTextW{
+        font-size: 2vh;
+        
+    }
+
+    .SmallTextG{
+        font-size: 1.5vh;
+        text-align: center;
+        height: 4vh;
+        align-items: center;
+        display: flex;
+    }
+    .SlidesTextcontainer{
+        height: auto;
+        width: auto;
+        margin-bottom: 2vh;
+    }
+
+
+
+    /* .SlideNum3{
+        
+    }
+
+    .BgImages{
+        display: none;
+    }
+    .SlidesTextcontainer{
+        display: none;
+    } */
+}

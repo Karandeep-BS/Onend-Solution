@@ -1,0 +1,22 @@
+@media (max-aspect-ratio: 3/2) {
+    .MainProject{
+        height: 30vh;
+    }
+    .ProjectTexes{
+        width: 100%;
+        height: 20vh;
+        
+    }
+    .LWT{
+        font-size: 4.5vh;
+        text-wrap: nowrap;
+        font-weight: 500;
+    }
+    .SAP{
+        font-size: 2.5vh;
+    }
+    .GET-START{
+        width: 60vw;
+        height: 7.5vh;
+    }
+}

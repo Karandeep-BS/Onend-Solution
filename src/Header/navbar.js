@@ -1,7 +1,9 @@
+import "./Mobile.css"
+
 export default function Navbar() {
     return (
-        <div className=" w-full h-[12.64vh] top-[-1.58vh] bg-[rgb(0,0,0)] flex items-center">
-            <div className="logo w-[9vw] h-[8.21vh] top-[1.42vh] ml-[6%]">
+        <div id="Navbar" className=" w-full h-[12.64vh] top-[-1.58vh] bg-[rgb(0,0,0)] flex items-center">
+            <div id="Logo" className="logo w-[9vw] h-[8.21vh] top-[1.42vh] ml-[6%]">
                 <img 
                 className="w-full h-full bg-cover "
                 src="Images/logo.png"></img>

@@ -1,0 +1,100 @@
+@media (max-aspect-ratio: 3/3) {
+    #Navbar{
+        width: 0vh;
+        height: 0vh;
+    }
+    
+    #Logo{
+        width: 0vw;
+        height: 0vh;
+        background-color: red;
+    }
+    
+    .HeroContent{
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+    }
+    .HeroHight{
+        justify-content: start;
+        align-items: start;
+        height: 140vh;
+    }
+    .row-1-box ,.row-2-box ,.row-3-box{
+        height: 12vh;
+    }
+    .HeroBottomCircle{
+        height: 27vh;
+        top: 12vh;
+    }
+    .HeroBottomFill{
+        overflow: hidden;
+    }
+    .TextHero{
+        margin-left: 4vw;
+        height: auto;
+        width: 100%;
+        margin-bottom: 6vh;
+        margin-top: 10vh;
+    }
+    .THEBOX{
+        width: 95%;
+    }
+
+    .MobileSpan{
+        display: inline !important;
+    }
+    .show-life-span {
+      display: inline !important;
+    }
+    .HeroTopArc{
+        display: None
+    }
+    .svg{
+        bottom: -13vh;
+        right: -5vw;
+    }
+    .ShapeSvg{
+        height: 40vh;
+        width: 40vw;
+    }
+    .HeroTopArc2 ,.HeroTopArc3{
+        display: block;
+        width: 10.5vh;
+        height: 10vh;
+        rotate: 1deg;
+        overflow: hidden;
+    }
+    .AHeroText{
+        font-size: 6vh;
+    }
+    .BHeroText{
+        font-size: 2.3vh;
+        line-height: 5vh;
+        margin-top: 1vh;
+    }
+    .HeroButton{
+        height: 7vh;
+        width: 50vw;
+    }
+    .GET_START_T{
+        font-size: 2.2vh;
+    }
+    .Parrow{
+        height: 7vh;
+        width: 7vw;
+    }
+    .THEGREEN{
+        height: 12vh;
+    }
+    @media (max-aspect-ratio: 3/2) {
+        .show-life-stack {
+          display: flex !important;
+        }
+      
+        .default-life-text {
+          display: none !important;
+        }
+      }
+      
+  }

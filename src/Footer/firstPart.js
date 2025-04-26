@@ -62,18 +62,12 @@ export default function First() {
                             class="flex-grow px-4 py-3 text-[] text-gray-700 placeholder-gray-500  bg-white focus:outline-none"
                         />
                         <button
-                            class="flex items-center justify-center px-6 text-sm font-semibold text-black bg-[#b6f214] hover:bg-lime-500 transition-colors text-[3.1vh]"
+                            class=" flex items-center justify-start pl-2  font-semibold text-black bg-[#b6f214] hover:bg-lime-500 transition-colors text-[3.5vh] relative"
                         >
                             SUBMIT
-                            <svg
-                              xmlns="http://www.w3.org/2000/svg"
-                              class="w-4 h-4 ml-2"
-                              fill="none"
-                              viewBox="0 0 24 24"
-                              stroke="currentColor"
-                            >
-                              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3" />
-                            </svg>
+                            <div className=" h-full flex justify-start items-center left-">
+                                <svg className=" " xmlns="http://www.w3.org/2000/svg" width="3vw" height="3vh" viewBox="0 0 24 24"><path fill="white" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 12h14m-6 6l6-6m-6-6l6 6"/></svg>
+                            </div>
                             </button>
                         </div>
                         

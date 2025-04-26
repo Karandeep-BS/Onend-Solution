@@ -1,0 +1,32 @@
+@media (max-aspect-ratio: 3/3) {
+    .Hero-bg{
+       height: 100vh;
+       width: 200vw;
+       left: -69vw;
+       Top: 5vh;
+
+    }
+    .hero-img{
+        height: 100%;
+        
+    }
+    .WorkImages-bg{
+        width: 40vw;
+        top: 12vh;
+        left: -20vw;
+        rotate: 20deg;
+    }
+
+    .P1{
+        height: 100%;
+        width: 50Vw;
+        top: 2vh;
+        left: -26vw;
+    }
+    .P2{
+        height: 100%;
+        width: 60Vw;
+        top: 8vh;
+        right: -29vw;
+    }
+  }

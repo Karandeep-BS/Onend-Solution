@@ -1,0 +1,35 @@
+@media (max-aspect-ratio: 3/2) {
+    .VideoBox{
+        height: 50vh;
+    }
+    .BoxSvg{
+        height: 6vh;
+        width: 6vh;
+    }
+    .info{
+        height: 90vh;
+        padding-bottom: 4vh;
+    }
+    .Default{
+        display: none;
+    }
+    .MobileSpan{
+        display: block;
+    }
+    .OTD{
+        font-size: 8.8vw;
+        line-height: 11vw;
+        margin-bottom: 3vh;
+    }
+    .WhoMain{
+        height: auto;
+    }
+    .GETaFree{
+        width: 90vw;
+        height: 8vh;
+    }
+    .SvgArrow{
+        height: 4vh;
+        width: 4vh;
+    }
+  }

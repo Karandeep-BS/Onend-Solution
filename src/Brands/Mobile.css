@@ -1,0 +1,38 @@
+@media (max-aspect-ratio: 3/2) {
+    .MainBrand{
+        height: 25vh;
+    }
+
+    .Brandtext{
+        height: 14vh;
+    }
+    .BrandRD{
+        font-size: 2vh;
+    }
+    .BrandImagesBox{
+        width: 147%;
+    }
+
+    .logo1{
+        height: 4.8vh;
+        width: 28vw;
+    }
+    .logo2 {
+        height: 6.9vh;
+        width: 25vw;
+      }
+
+    .logo3{
+        width: 20vw;
+        height: 5vh;
+    }
+    .logo4{
+        width: 23.2vw;
+        height: 4.1vh;
+      }
+    
+      .logo5 {
+        width: 19.5vw;
+        height: 8.3vh;
+      }      
+}
