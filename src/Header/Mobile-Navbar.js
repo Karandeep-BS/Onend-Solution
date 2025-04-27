@@ -6,7 +6,7 @@ export default function MobileNavbar() {
             <div className="logo w-[15vh] h-[6vh] ">
                 <img 
                 className="w-full h-full "
-                src="Images/Logo.png"></img>
+                src="Images/logo.png"></img>
             </div>
         </div>
     );
