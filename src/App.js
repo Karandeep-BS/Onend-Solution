@@ -4,8 +4,8 @@ import Services from './Services/Servics';
 import Work from './Work/work';
 import Project from './Project/Project';
 import Brands from './Brands/Brands';
-import Footer from './Footer/Footer';
 import './App.css';
+import MainFooter from './Footer/MainFooter';
 
 function App() {
 
@@ -17,7 +17,7 @@ function App() {
       <Work />
       <Project />
       <Brands />
-      <Footer />
+      <MainFooter/>
     </div>
   );
 }

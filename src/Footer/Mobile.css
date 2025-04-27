@@ -1,0 +1,6 @@
+@media (max-aspect-ratio: 3/2) {
+    .MobileFirst{
+        
+        flex-direction: column;
+    }
+  }
